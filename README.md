@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+# 媒体流合并、录制、下载
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Demo
+xxx
+## 项目启动
+```
+yarn
+yarn dev
+```
+## 框架
+- vue 3.0
+## 脚手架
+- vite 2.6
+## 媒体流合并
+- video-stream-merger
+## 媒体流录制
+- MediaRecorder
