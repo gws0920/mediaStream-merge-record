@@ -1,7 +1,7 @@
 # 媒体流合并、录制、下载
 
 ## Demo
-![效果](src\assets\demo.png)
+![效果](https://github.com/gws0920/stream-merge-record/blob/master/public/demo.png)
 
 https://gws0920.github.io/stream-merge-record/
 ## 项目启动
