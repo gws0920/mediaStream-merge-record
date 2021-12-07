@@ -1,7 +1,7 @@
 # 媒体流合并、录制、下载
 
 ## Demo
-xxx
+https://gws0920.github.io/stream-merge-record/
 ## 项目启动
 ```
 yarn
