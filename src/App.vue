@@ -12,8 +12,8 @@ let recorder = null
 // 获取屏幕共享/摄像头，并 合并媒体流
 const begin = async () => {``
   merger = new VideoStreamMerger({
-    width: 680,   // Width of the output video
-    height: 380,  // Height of the output video
+    width: 1920,   // Width of the output video
+    height: 1080,  // Height of the output video
     fps: 25,       // Video capture frames per second
     clearRect: true
   })
@@ -34,10 +34,10 @@ const begin = async () => {``
   try {
     camera = await navigator.mediaDevices.getUserMedia({ video: true, audio: true })
     merger.addStream(camera, {
-      x: merger.width - 100,
-      y: merger.height - 100,
-      width: 100,
-      height: 100
+      x: merger.width - 480,
+      y: merger.height - 270,
+      width: 480,
+      height: 270
     })
   } catch (e) {
     console.error('出错了', e);
