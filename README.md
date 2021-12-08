@@ -3,7 +3,7 @@
 ## Demo
 ![效果](https://github.com/gws0920/video-stream/blob/master/public/demo.png)
 
-https://gws0920.github.io/video-stream/
+https://gws0920.github.io/mediaStream-merge-record/
 ## 项目启动
 ```
 yarn
