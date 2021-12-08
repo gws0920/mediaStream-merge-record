@@ -1,9 +1,9 @@
 # 媒体流合并、录制、下载
 
 ## Demo
-![效果](https://github.com/gws0920/stream-merge-record/blob/master/public/demo.png)
+![效果](https://github.com/gws0920/video-stream/blob/master/public/demo.png)
 
-https://gws0920.github.io/stream-merge-record/
+https://gws0920.github.io/video-stream/
 ## 项目启动
 ```
 yarn
